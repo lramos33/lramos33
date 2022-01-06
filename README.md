@@ -2,10 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/lramos33">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lramos33&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramos33&layout=compact&langs_count=7&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lramos33&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues&hide_rank=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramos33&layout=compact&langs_count=7&theme=react&hide=shell" />
 </div>
-
+  
+  ##
+  
 <div align="center">
   <a hef="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
