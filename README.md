@@ -53,7 +53,7 @@
 </div>
   
 <div align="center">
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=lramos33&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=lramos33&theme=react&hide_border=false&date_format=j%20M%5B%20Y%5D" />
 </div>
   
 <div align="center">
