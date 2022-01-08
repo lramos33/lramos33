@@ -48,12 +48,12 @@
 
 <div align="center">
   <a href="https://github.com/lramos33">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lramos33&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues&hide_rank=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramos33&layout=compact&langs_count=7&theme=react&hide=shell" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lramos33&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues&hide_rank=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramos33&layout=compact&langs_count=7&theme=react&hide=shell&hide_border=true" />
 </div>
   
 <div align="center">
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=lramos33&theme=react&hide_border=false&date_format=j%20M%5B%20Y%5D" />
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=lramos33&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
   
 <div align="center">
@@ -64,16 +64,16 @@
 
 <h2>Connect with me</h2>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/lramo33/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lramos33" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:oliveira.leonardo3004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/user/ramos.leonardo3004"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-</div>
+</div> -->
   
-<!--  <div align="center">
+ <div align="center">
   <a href="https://www.linkedin.com/in/lramo33/" target="_blank"><img height="50" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" target="_blank"></a>
   <a href="https://instagram.com/lramos33" target="_blank"><img height="50" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png" target="_blank"></a>
   <a href = "mailto:oliveira.leonardo3004@gmail.com"><img height="50" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/gmail_black_logo_icon_147126.png" target="_blank"></a>
   <a href = "https://open.spotify.com/user/ramos.leonardo3004"><img height="50" src="https://cdn.icon-icons.com/icons2/791/PNG/512/spotify_icon-icons.com_65503.png" target="_blank"></a>
-</div> -->
+</div>
