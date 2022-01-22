@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 
-- 🔭 Currently working on backend development projects.
+- 🔭 Currently working on Back-end Development projects.
 - 🌱 Currently learning Full Stack Development at Trybe.
 
 <!--See some of my projects:  -->
