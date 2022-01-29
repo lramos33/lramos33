@@ -6,6 +6,7 @@
 
 - 🔭 Currently working on Back-end Development projects.
 - 🌱 Currently learning Full Stack Development at Trybe.
+- ⚡️ Hobbies: Movies (especially Marvel Studios), fitness and music.
 
 <!--See some of my projects:  -->
 
