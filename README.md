@@ -54,9 +54,9 @@
 </div>
   
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lramos33&color=brightgreen" target="_blank" />
-  <img src="https://badges.pufler.dev/repos/lramos33" target="_blank" />
-  <img src="https://badges.pufler.dev/commits/monthly/lramos33" target="_blank" />
+  <img src="https://komarev.com/ghpvc/?username=lramos33&color=brightgreen" />
+  <img src="https://badges.pufler.dev/repos/lramos33" />
+  <img src="https://badges.pufler.dev/commits/monthly/lramos33" />
 </div>
 
 <h2>Connect with me</h2>
