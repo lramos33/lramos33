@@ -65,10 +65,10 @@
 </div>
 
 <h2>Connect with me</h2>
-  
+
  <div align="center">
-  <a href="https://www.linkedin.com/in/lramo33/" target="_blank"><img height="50" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" target="_blank"></a>
-  <a href="https://instagram.com/lramos33" target="_blank"><img height="50" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png" target="_blank"></a>
-  <a href = "mailto:oliveira.leonardo3004@gmail.com"><img height="50" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/gmail_black_logo_icon_147126.png" target="_blank"></a>
-  <a href = "https://open.spotify.com/user/ramos.leonardo3004"><img height="50" src="https://cdn.icon-icons.com/icons2/791/PNG/512/spotify_icon-icons.com_65503.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lramo33/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lramos33" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:oliveira.leonardo3004@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://open.spotify.com/user/ramos.leonardo3004"><img src="https://img.shields.io/badge/Spotify-20232A?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
