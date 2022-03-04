@@ -25,7 +25,7 @@
     <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
     <img alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-    <img alt="react testing library" src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=Testing-Library&logoColor=white" />
+    <img alt="testing library" src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=Testing-Library&logoColor=white" />
   </div>
 
 <!-- <h4>Back-end</h4> -->
@@ -33,6 +33,7 @@
     <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img alt="chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
   </div>
 
 <!-- <h4>Tools</h4> -->
