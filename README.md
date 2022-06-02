@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Leonardo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Leonardo</h1>
 
 <p>I'm a tech enthusiast from Brazil who loves to code and learn about new things.</p>
 
