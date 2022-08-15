@@ -4,8 +4,7 @@
 
 <h2>About Me</h2>
 
-- 🔭 Currently working as Full Stack Developer at [MeuGuru](https://www.meuguru.net/).
-- 🌱 Currently learning Full Stack Development at [Trybe](https://www.betrybe.com/).
+- 🔭 Currently working as Front end Developer at [MeuGuru](https://www.meuguru.net/).
 - ⚡️ Hobbies: Movies (especially Marvel Studios), fitness and music.
 
 <!--See some of my projects:  -->
