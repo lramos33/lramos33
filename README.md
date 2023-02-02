@@ -46,6 +46,6 @@
 
  <div align="center">
   <a href="https://www.linkedin.com/in/lramos33/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://lramos33-portfolio.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-20232A?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
+<!--   <a href="https://lramos33-portfolio.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-20232A?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:oliveira.leonardo3004@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
