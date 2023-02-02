@@ -41,12 +41,6 @@
   <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=lramos33&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lramos33&layout=compact&langs_count=10&theme=react&hide=shell&hide_border=true" />
 </div>
-  
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lramos33&color=brightgreen" />
-  <img src="https://badges.pufler.dev/repos/lramos33" />
-  <img src="https://badges.pufler.dev/commits/monthly/lramos33" />
-</div>
 
 <h2>Connect with me</h2>
 
