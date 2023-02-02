@@ -6,7 +6,7 @@
 
 - 🔭 Currently working as Front-end Developer at [MeuGuru](https://www.meuguru.net/).
 - 🌱 Always studying React.js.
-- ⚡️ Hobbies: Movies (especially Marvel Studios), fitness and music.
+- ⚡️ Hobbies: Movies, fitness and music.
 
 <!--See some of my projects:  -->
 
