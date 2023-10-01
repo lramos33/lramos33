@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 
-- 🔭 Currently working as Front-end Developer at [MeuGuru](https://www.meuguru.net/).
+- 🔭 Currently working as front end developer at [MeuGuru](https://www.meuguru.net/) and building a SaaS 🤫.
 - 🌱 Always studying React.js.
 - ⚡️ Hobbies: Movies, fitness and music.
 
