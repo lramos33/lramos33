@@ -4,8 +4,8 @@
 
 <h2>About Me</h2>
 
-- 🔭 Currently working as front end developer at [MeuGuru](https://www.meuguru.net/) and building a SaaS 🤫.
-- 🌱 Always studying React and Next.js.
+- 🔭 Currently working as frontend developer at [MeuGuru](https://www.meuguru.com/).
+- 🌱 Always studying React, Next.js and Typescript.
 - ⚡️ Hobbies: Movies, fitness and music.
 
 <h2>Connect with me</h2>
