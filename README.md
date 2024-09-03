@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 
-- 🔭 Currently working as frontend developer at [MeuGuru](https://www.meuguru.com/) and building a SaaS 🤫
+- 🔭 Currently working as frontend developer at [Meu Guru](https://www.meuguru.com/) and secretly building a SaaS 🤫
 - 🌱 Always studying React, Next.js and Typescript
 - 🧠 I think about code organization more than I would like
 
