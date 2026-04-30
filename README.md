@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 
-- 🔭 Currently working as frontend developer and secretly building a SaaS 🤫
+- 🔭 Currently working as frontend developer and building a SaaS on the freetime
 - 🌱 Always studying React, Next.js and Typescript
 - 🧠 I think about code organization more than I would like
 
